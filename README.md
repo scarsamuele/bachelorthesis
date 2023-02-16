@@ -1,2 +1,2 @@
 # bachelorthesis
-# bachelorthesis
+In heavy ion physics, Quark Gluon Plasma (QGP) is created after a collision. It was shown that it properties can be constrained by the measurements of anisotropic flow. Traditionally anisotropic flow harmonics are estimated by using multivariate cumulants. In this project new multivariate cumulants for anisotropic flow analysis have been introduced, their mathematical and statistical properties have been investigated in detail and tested with carefully designed toy monte carlo studies. These cumulants provide new and independent information about QGP properties when compared to the ones used so far.
